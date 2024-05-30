@@ -1,0 +1,108 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/death-by-suicide-objects---secondary.py
+inputModule3:
+  class: File
+  path: python/death-by-suicide-flame---secondary.py
+inputModule4:
+  class: File
+  path: python/death-by-suicide-firearm---secondary.py
+inputModule5:
+  class: File
+  path: python/death-by-suicide-means---secondary.py
+inputModule6:
+  class: File
+  path: python/biological-death-by-suicide---secondary.py
+inputModule7:
+  class: File
+  path: python/material-death-by-suicide---secondary.py
+inputModule8:
+  class: File
+  path: python/death-by-suicide-jumping---secondary.py
+inputModule9:
+  class: File
+  path: python/death-by-suicide-pesticide---secondary.py
+inputModule10:
+  class: File
+  path: python/death-by-suicide-suffocation---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-suicide-vehicle---secondary.py
+inputModule12:
+  class: File
+  path: python/psychotropic-death-by-suicide---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-suicide-antirheumatics---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-suicide-handgun---secondary.py
+inputModule15:
+  class: File
+  path: python/death-by-suicide-hallucinogens---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-suicide-submersion---secondary.py
+inputModule17:
+  class: File
+  path: python/death-by-suicide-shotgun---secondary.py
+inputModule18:
+  class: File
+  path: python/death-by-suicide-selfpoisoning---secondary.py
+inputModule19:
+  class: File
+  path: python/death-by-suicide-alcohol---secondary.py
+inputModule20:
+  class: File
+  path: python/larger-death-by-suicide---secondary.py
+inputModule21:
+  class: File
+  path: python/noxious-death-by-suicide---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-suicide-their---secondary.py
+inputModule23:
+  class: File
+  path: python/residential-death-by-suicide---secondary.py
+inputModule24:
+  class: File
+  path: python/death-by-suicide-highway---secondary.py
+inputModule25:
+  class: File
+  path: python/death-by-suicide-athletics---secondary.py
+inputModule26:
+  class: File
+  path: python/administrative-death-by-suicide---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-suicide-service---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-suicide-construction---secondary.py
+inputModule29:
+  class: File
+  path: python/death-by-suicide-pushed---secondary.py
+inputModule30:
+  class: File
+  path: python/death-by-suicide-event---secondary.py
+inputModule31:
+  class: File
+  path: python/death-by-suicide-running---secondary.py
+inputModule32:
+  class: File
+  path: python/death-by-suicide-hanging---secondary.py
+inputModule33:
+  class: File
+  path: python/death-by-suicide-causes---secondary.py
+inputModule34:
+  class: File
+  path: python/external-death-by-suicide---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-suicide-sequelae---secondary.py
+inputModule36:
+  class: File
+  path: python/output-cases.py
